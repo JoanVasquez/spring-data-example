@@ -1,0 +1,4 @@
+com\dailycodebuffer\spring\data\jpa\tutorial\entity\Student.class
+com\dailycodebuffer\spring\data\jpa\tutorial\repository\IStudentRepository.class
+com\dailycodebuffer\spring\data\jpa\tutorial\SpringDataJpaTutorialApplication.class
+com\dailycodebuffer\spring\data\jpa\tutorial\entity\Student$StudentBuilder.class
